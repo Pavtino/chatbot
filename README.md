@@ -1,4 +1,4 @@
-# ChatBot with OpenAI (ChatGPT) API (with GUI)
+# ChatBot with OpenAI  API (with flask)
 Build your own chatbot  using OpenAI API.
 
 ### Steps to Use the ChatBot:
