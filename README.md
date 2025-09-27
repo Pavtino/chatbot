@@ -1,5 +1,6 @@
-# ChatBot with OpenAI  API (with flask)
-Build your own chatbot  using OpenAI API.
+# ChatBot for farmer
+Create your AgriBot using this one. This project aim to create a chatbot for agricultural sector.
+It wil also make some task for farmer if connected with IoT device. Here it is a few basic function
 
 ### Steps to Use the ChatBot:
 - Register to openAI to have your API_KEY.
